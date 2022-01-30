@@ -1,4 +1,5 @@
 // Best case: O(1) -> element found in 0th index.
+// Average case O(n/2) -> element found in the mid.
 // Worst case: O(N) -> element found in last index or not found.
 
 #include <array>
